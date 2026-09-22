@@ -6,9 +6,9 @@
 
 ## 📂 Структура репозитория
 
-* lesson1.py[span_1](start_span)[span_1](end_span) — Базовый синтаксис, переменные и типы данных.
-* lesson2.py[span_2](start_span)[span_2](end_span) — Условия и циклы (if, for, while).
-* lesson3.py[span_3](start_span)[span_3](end_span) — Функции и работа с данными.
+* lesson1.py — Базовый синтаксис, переменные и типы данных.
+* lesson2.py — Условия и циклы (if, for, while).
+* lesson3.py — Функции и работа с данными.
 * *(Здесь будут появляться новые уроки и проекты)*
 
 ---
