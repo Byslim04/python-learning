@@ -25,3 +25,33 @@ while countdown > 0:
     countdown -= 1
 
 print("Пуск! 🚀")
+
+
+----------
+
+
+# Lesson 2: Conditions (if/elif/else) and loops (for, while)
+
+print("--- 1. Conditional statements (if, elif, else) ---")
+age = int(input("How old are you? "))
+
+if age < 18:
+    print("You are still a minor.")
+elif age == 18:
+    print("Happy 18th birthday!")
+else:
+    print("You are an adult.")
+
+print("\n--- 2. Counter loop (for) ---")
+print("Counting from 1 to 5:")
+for i in range(1, 6):
+    print(f"Loop step: {i}")
+
+print("\n--- 3. Conditional loop (while) ---")
+print("Rocket launch countdown:")
+countdown = 3
+while countdown > 0:
+    print(countdown)
+    countdown -= 1
+
+print("Lift-off! 🚀")
